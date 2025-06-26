@@ -60,7 +60,7 @@ const Hero = () => {
 
                     <div className="flex justify-center lg:justify-start gap-4 mt-4">
                       <a
-                        href="https://github.com"
+                        href="https://github.com/Deekshit947"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-white/80 hover:text-white transition-colors"
@@ -68,7 +68,7 @@ const Hero = () => {
                         <FaGithub size={24} />
                       </a>
                       <a
-                        href="www.linkedin.com/in/deekshithhreddy"
+                        href="https://www.linkedin.com/in/deekshithhreddy"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="text-white/80 hover:text-white transition-colors"
