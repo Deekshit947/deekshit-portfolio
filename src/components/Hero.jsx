@@ -40,7 +40,7 @@ const Hero = () => {
 
                   <div className="flex flex-col gap-4 lg:w-[60%] text-center lg:text-left">
                     <p className="text-[16px] sm:text-[18px] text-white-100 leading-relaxed">
-                      👋 Hi, I’m Deekshit — Full Stack Developer with 3+ years of experience in building scalable, 
+                      👋 Hi, I’m Deekshit — Full Stack Developer with experience in building scalable, 
                       cloud-native applications using Java, Spring Boot, React and AWS. Skilled in designing 
                       secure APIs, microservices, and modern web interfaces for enterprise-grade systems.
                     </p>
